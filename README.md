@@ -1,3 +1,5 @@
+# Project Sentinel : Digitalisation des Registres Médicaux avec MedGemma
+
 ## 🌟 Aperçu
 Ce projet utilise **MedGemma 1.5 4B** pour automatiser l'extraction de statistiques mensuelles à partir de registres manuscrits dans les zones à ressources limitées.
 
