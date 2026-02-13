@@ -1,0 +1,8 @@
+# System dependencies for Streamlit Cloud
+# This file is read by Streamlit Cloud to install system packages
+
+# No system packages required for basic demo version
+# Uncomment below if you need OCR capabilities:
+# tesseract-ocr
+# tesseract-ocr-fra
+# tesseract-ocr-eng
